@@ -1,4 +1,4 @@
-# Data Scientist
+## Randi Eka Sanjaya
 
 **Skills:** Big Data Analytics, Business Analytics, Software Development, MLOps, Data Science, Machine Learning, Generative AI, NLP Reinforcement Learning, DevOps, Deep Learning, Transfer Learning, Cloud, Risk Management, Operational Research, Project Management \
 **Programming Language & Others:** Python/PySpark, Scala, R, Java, Golang, Shell Script \
@@ -93,12 +93,12 @@
 ## Other Repository
 ### Homework at College
 - [Statistics and Multivariate Analysis](https://github.com/randi-source/Statistics-and-Multivariate-Analysis)
-  - Binary classification with PySpark
-  - Correspondence analysis
-  - Data preprocessing for Linear Regression
-  - Logistic Regression
-  - MANOVA
-  - PCA and Binary Classification
+  - [Binary classification with PySpark](https://github.com/randi-source/Statistics-and-Multivariate-Analysis/tree/main/Binary%20Classification%20with%20Pyspark%20and%20MLFlow)
+  - [Correspondence analysis](https://github.com/randi-source/Statistics-and-Multivariate-Analysis/tree/main/Correspondence%20Analysis)
+  - [Data preprocessing for Linear Regression](https://github.com/randi-source/Statistics-and-Multivariate-Analysis/tree/main/Data%20Preprocessing%20for%20Linear%20Regression)
+  - [Logistic Regression](https://github.com/randi-source/Statistics-and-Multivariate-Analysis/tree/main/Logistic%20Regression)
+  - [MANOVA](https://github.com/randi-source/Statistics-and-Multivariate-Analysis/tree/main/MANOVA)
+  - [PCA and Binary Classification](https://github.com/randi-source/Statistics-and-Multivariate-Analysis/tree/main/Principal%20Component%20Analysis%20and%20Multiple%20Binary%20Classification%20Model)
 - [Artificial Inteligence](https://github.com/randi-source/Artificial_Inteligence)
   - [Random Forest Classifier-Binary Classification on Bank Marketing Campaign](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_2/data-society-bank-marketing-data/random-forest-bank_225612018.ipynb)
   - [Decision Tree Classifier-Binary Classification on Credit Data](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_3/credit_data/credit_data_r.ipynb)
