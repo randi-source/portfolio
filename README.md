@@ -14,5 +14,5 @@ Industrial Engineering, Master
 * Data Scientist @ PT. Solusi 247 \
 -Spark backend developer for Machine Learning BDA software \
 -Become keynote speaker on government client workshops about ML \
--Become mentor for internship student about NLP-Sentiment Analysis \ 
+-Become mentor for internship student about NLP-Sentiment Analysis \
 -Become keynote speaker on university workshop @UAJY about Big Data in real world case 
