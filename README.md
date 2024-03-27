@@ -3,7 +3,7 @@
 **Skills:** Big Data Analytics, Business Analytics, Software Development, MLOps, Data Science, Machine Learning, Generative AI, NLP Reinforcement Learning, DevOps, Deep Learning, Transfer Learning, Cloud, Risk Management, Operational Research, Project Management \
 **Programming Language & Others:** Python/PySpark, Scala, R, Java, Golang, Shell Script \
 **Database:** Hive, MySQL, PostgreSQL \
-**Visualization:** Tableau, Google Data Studio, Grafana \
+**Visualization:** Tableau, Streamlit, Google Data Studio, Grafana \
 **Service:** MLFlow, EvidentlyAI,  Docker, Ansible, Jenkins, Kubernetes, Git, AWS, Apache Hadoop, Apache Oozie, AnyLogistix \
 **ML and DL Framework:** HuggingFace (BERT, GPT2, T5, Wav2Vec, Whisper), Apache Spark, AWS SageMaker, XG-Boost, Scikit-Learn, TensorFlow, PyTorch
 
