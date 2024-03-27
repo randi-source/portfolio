@@ -12,16 +12,16 @@
 - S.T., Industrial Engineering | Universitas Atma Jaya Yogyakarta (_Jan 2020_)
 
 ## Work Experience
+**Data Scientist @ PT. Solusi 247** 
+- Spark backend developer for Machine Learning BDA software 
+- Become keynote speaker on government client workshops about ML 
+- Become mentor for internship student about NLP-Sentiment Analysis
+
 **Junior Data Scientist @ PT. Solusi 247** 
 - Creating customer segmentation, churn prediction, apriori analysis, anomaly detection, market share analysis, warehouse segmentation, logistic network simulation usecase in state-owned enterprise big data project 
 - Implementing and testing MLOps practice, streaming analysis, TensorFlow test in government big data project 
 - Spark backend developer for big data analytics software 
 - Become keynote speaker on client internal workshops about Big Data on Supply Chain Management 
-
-**Data Scientist @ PT. Solusi 247** 
-- Spark backend developer for Machine Learning BDA software 
-- Become keynote speaker on government client workshops about ML 
-- Become mentor for internship student about NLP-Sentiment Analysis 
 
 ## Course
 - AWS Certified Machine Learning Specialty 2023 - Hands On! @ Udemy
