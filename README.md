@@ -24,20 +24,20 @@
 - Become mentor for internship student about NLP-Sentiment Analysis 
 
 ### Course
-- AWS Certified Machine Learning Specialty 2023 - Hands On! | Udemy
-- Apache Spark with Scala - Hands On with Big Data | Udemy
-- Big Data Analytics Fundamental | Data Learns 247
-- [Data Science (Python, R, SQL) | DQLAB](https://github.com/randi-source/DQLab-repo)
-- [Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins | Udemy](https://github.com/randi-source/test-ci.cd)
-- [Exploring The Tehnologies Behind ChatGPT, GPT4 & LLMs | Udemy](https://github.com/randi-source/Learn_BERT_GPT_T5_LLM)
-- [PySpark Essentials for Data Scientist (Big Data + Python) | Udemy](https://github.com/randi-source/Pyspark_introduction)
+- AWS Certified Machine Learning Specialty 2023 - Hands On! @ Udemy
+- Apache Spark with Scala - Hands On with Big Data @ Udemy
+- Big Data Analytics Fundamental @ Data Learns 247
+- [Data Science (Python, R, SQL) @ DQLAB](https://github.com/randi-source/DQLab-repo)
+- [Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins @ Udemy](https://github.com/randi-source/test-ci.cd)
+- [Exploring The Tehnologies Behind ChatGPT, GPT4 & LLMs @ Udemy](https://github.com/randi-source/Learn_BERT_GPT_T5_LLM)
+- [PySpark Essentials for Data Scientist (Big Data + Python) @ Udemy](https://github.com/randi-source/Pyspark_introduction)
 
 ### Certification
 - TOEIC Listening and Reading Test (870/990)
 
 ### Workshop
-- [Pengenalan MLOps dengan MLFlow | ID Big Data](https://github.com/randi-source/Workshop_Pengenalan_MLOps_dengan_MLflow)
-- [Introduction to Big Data | Universitas Atma Jaya Yogyakarta](https://github.com/randi-source/Workshop-Introduction-to-Big-Data)
+- [Pengenalan MLOps dengan MLFlow @ ID Big Data](https://github.com/randi-source/Workshop_Pengenalan_MLOps_dengan_MLflow)
+- [Introduction to Big Data @ Universitas Atma Jaya Yogyakarta](https://github.com/randi-source/Workshop-Introduction-to-Big-Data)
 
 ### Publication
 1. Sanjaya, R.E. (2024). Framework for Acquiring Voice of Customer using Multimodal Sentiment Analysis. Universitas Atma Jaya Yogyakarta
