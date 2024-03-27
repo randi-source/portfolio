@@ -24,13 +24,64 @@
 - Become keynote speaker on client internal workshops about Big Data on Supply Chain Management 
 
 ## Course
-- AWS Certified Machine Learning Specialty 2023 - Hands On! @ Udemy
-- Apache Spark with Scala - Hands On with Big Data @ Udemy
-- Big Data Analytics Fundamental @ Data Learns 247
-- [Data Science (Python, R, SQL) @ DQLAB](https://github.com/randi-source/DQLab-repo)
-- [Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins @ Udemy](https://github.com/randi-source/test-ci.cd)
-- [Exploring The Tehnologies Behind ChatGPT, GPT4 & LLMs @ Udemy](https://github.com/randi-source/Learn_BERT_GPT_T5_LLM)
-- [PySpark Essentials for Data Scientist (Big Data + Python) @ Udemy](https://github.com/randi-source/Pyspark_introduction)
+- **AWS Certified Machine Learning Specialty 2023 - Hands On! @ Udemy** 
+  - Learn data engineering
+  - Exploratory data analysis
+  - Deep learning and machine learning in general
+  - Model training using Amazon SageMaker
+  - High-level AWS ML services
+  - Hands on case, implementation, and operations
+- **Apache Spark with Scala - Hands On with Big Data @ Udemy** 
+  - Learn RDD data format
+  - SparkSQL
+  - Dataframes and Datasets
+  - Run Spark in clusters
+  - Machine learning algorithm implementation with Spark ML
+  - Spark Streaming
+  - GraphX
+- **Big Data Analytics Fundamental @ Data Learns 247** 
+  - Learn Linux
+  - SQL
+  - Data visualization with Google Data Studio
+  - Python
+  - Apache Hadoop
+  - Apache Spark
+  - Apache Hive
+  - Create model for movie recommendations
+- [Data Science (Python, R, SQL) @ DQLAB](https://github.com/randi-source/DQLab-repo) 
+  - Processing data and making Analysis, Doing data preparation and developing a priori models
+  - Perform data preparation and diagnostic analysis, prepare data and make analysis
+  - Prepare data and make analysis, perform data preparation and perform diagnostic analysis
+  - Perform data preparation and develop recommendation systems, prepare data and create models
+- [Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins @ Udemy](https://github.com/randi-source/test-ci.cd) 
+  - Introduction to DevOps
+  - CI/CD implementation with basic development
+  - AWS EC2 Instances setup
+  - Introduction to linux commands and JAVA MAVEN setup
+  - Deployment Apps via Jenkins
+  - Introduction to Docker
+  - Introduction to Ansible
+  - Introduction to Git Webhooks
+  - Introduction to basic GitHub
+- [Exploring The Tehnologies Behind ChatGPT, GPT4 & LLMs @ Udemy](https://github.com/randi-source/Learn_BERT_GPT_T5_LLM) 
+  - Learn text tokenization
+  - Masked language modeling
+  - Next sentence prediction
+  - Token classification
+  - QA model
+  - Text generation
+  - Prompt engineering
+  - Semantic search
+  - Multitask learning
+  - Abstractive summarization
+  - Reinforcement learning
+  - Deep reinforcement learning
+- [PySpark Essentials for Data Scientist (Big Data + Python) @ Udemy](https://github.com/randi-source/Pyspark_introduction) 
+  - Learn basic Dataframes: Read, Write, Validate
+  - Learn basic Dataframes: Clean, Manipulate, Join, Aggregate
+  - Learn MLLib Spark
+  - Learn Classification in MLLib
+  - Learn Natural Language Processing in MLLib
 
 ## Certification
 - TOEIC Listening and Reading Test (870/990)
@@ -38,6 +89,15 @@
 ## Workshop
 - [Pengenalan MLOps dengan MLFlow @ ID Big Data](https://github.com/randi-source/Workshop_Pengenalan_MLOps_dengan_MLflow)
 - [Introduction to Big Data @ Universitas Atma Jaya Yogyakarta](https://github.com/randi-source/Workshop-Introduction-to-Big-Data)
+
+## Other Repository
+### Homework at College
+- [Statistics and Multivariate Analysis](https://github.com/randi-source/Statistics-and-Multivariate-Analysis)
+- [Artificial Inteligence](https://github.com/randi-source/Artificial_Inteligence)
+- [Data Mining and Business Intelligence](https://github.com/randi-source/Data-Mining-and-Business-Intelligence)
+- [System Modelling and Operational Research](https://github.com/randi-source/System-Modelling-and-Operational-Research)
+### Others
+- [Learn Java Basics](https://github.com/randi-source/belajar-java-dasar)
 
 ## Publication
 1. Sanjaya, R.E. (2024). Framework for Acquiring Voice of Customer using Multimodal Sentiment Analysis. Universitas Atma Jaya Yogyakarta
