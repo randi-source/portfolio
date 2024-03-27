@@ -7,6 +7,6 @@ description: >
   Hi, I am data scientist in Information and Communication Technology (ICT) industry, filled with several big data projects and backend developer for big data analytics tools. 
   Skilled in Big Data Analytics, Software Development, and MLOps. Engineering professional with master's degree in industrial engineering focused on business analytics.
 #show_downloads: true
-#theme: jekyll-theme-minimal
-theme: minima
+theme: jekyll-theme-minimal
+#theme: minima
 minima: dark
