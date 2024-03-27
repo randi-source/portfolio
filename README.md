@@ -93,9 +93,27 @@
 ## Other Repository
 ### Homework at College
 - [Statistics and Multivariate Analysis](https://github.com/randi-source/Statistics-and-Multivariate-Analysis)
+  - Binary classification with PySpark
+  - Correspondence analysis
+  - Data preprocessing for Linear Regression
+  - Logistic Regression
+  - MANOVA
+  - PCA and Binary Classification
 - [Artificial Inteligence](https://github.com/randi-source/Artificial_Inteligence)
+  - [Random Forest Classifier-Binary Classification on Bank Marketing Campaign](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_2/data-society-bank-marketing-data/random-forest-bank_225612018.ipynb)
+  - [Decision Tree Classifier-Binary Classification on Credit Data](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_3/credit_data/credit_data_r.ipynb)
+  - [Decision Tree vs Random Forest vs Gradient Boost vs XGBoost-Multiclass Classification on Iris Data](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_3/Iris-Classification/iris_classification.ipynb)
+  - [Support Vector Machine-Binary Classification on Supply Chain Delivery Package](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_4/svm.ipynb)
+  - [K-Neirest Neighbour vs Artificial Neural Network-Binary Classification on Supply Chain Delivery Package](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_5/225612018_knn_ann.ipynb)
+  - [Artificial Neural Network Hyperparameter Tuning-Binary Classification on Diabetes Dataset](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_6/ann_hyperparameter_tunning_225612018.ipynb)
+  - [Convolutional Neural Network-Image Classification on Cat and Dog Dataset](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_7/Implementing_CNN_cat_and_dog.ipynb)
+  - [Markov Decision Process-Reinforcement Learning on 4x4 Small GridWorld](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_10/4_4_smallGrid.ipynb)
+  - [Generative Adversarial Network-Generative AI on Handwritten Digits Generator](https://github.com/randi-source/Artificial_Inteligence/blob/main/Pertemuan_11/gan_225612018.ipynb)
+  - [Decision Tree vs Random Forest vs Gradient Boost vs XGBoost vs SVM-Multiclass Classification on Worker Productivity Prediction](https://github.com/randi-source/Artificial_Inteligence/blob/main/UTS/uts_225612018.ipynb)
+  - [Web Scrapping LinkedIn for Data Scientist Position](https://github.com/randi-source/Artificial_Inteligence/tree/main/UAS)
 - [Data Mining and Business Intelligence](https://github.com/randi-source/Data-Mining-and-Business-Intelligence)
 - [System Modelling and Operational Research](https://github.com/randi-source/System-Modelling-and-Operational-Research)
+  
 ### Others
 - [Learn Java Basics](https://github.com/randi-source/belajar-java-dasar)
 
