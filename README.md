@@ -112,7 +112,18 @@
   - [Decision Tree vs Random Forest vs Gradient Boost vs XGBoost vs SVM-Multiclass Classification on Worker Productivity Prediction](https://github.com/randi-source/Artificial_Inteligence/blob/main/UTS/uts_225612018.ipynb)
   - [Web Scrapping LinkedIn for Data Scientist Position](https://github.com/randi-source/Artificial_Inteligence/tree/main/UAS)
 - [Data Mining and Business Intelligence](https://github.com/randi-source/Data-Mining-and-Business-Intelligence)
+  - [Data Preprocessing](https://github.com/randi-source/Data-Mining-and-Business-Intelligence/tree/main/Data%20Preprocessing)
+  - [Data Preprocessing and Linear Regression](https://github.com/randi-source/Data-Mining-and-Business-Intelligence/tree/main/Data%20Visualization%20and%20Linear%20Regression)
+  - [Logistic Regression](https://github.com/randi-source/Data-Mining-and-Business-Intelligence/tree/main/Logistic%20Regression/Midterm%20Exam)
+  - [Linear Discriminant Analysis for Classification](https://github.com/randi-source/Data-Mining-and-Business-Intelligence/tree/main/Linear%20Discriminant%20Analysis%20for%20Classification)
+  - [K-Means Clustering](https://github.com/randi-source/Data-Mining-and-Business-Intelligence/tree/main/K-Means%20Clustering)
+  - [Association Rules](https://github.com/randi-source/Data-Mining-and-Business-Intelligence/tree/main/Association%20Rules/Final%20Exam)
+  - [Web Scraping and Sentiment Analysis Lexicon](https://github.com/randi-source/Data-Mining-and-Business-Intelligence/tree/main/Web%20Scrapping%20and%20Sentiment%20Analysis)
 - [System Modelling and Operational Research](https://github.com/randi-source/System-Modelling-and-Operational-Research)
+  - [Linear Programming with Lingo](https://github.com/randi-source/System-Modelling-and-Operational-Research/tree/main/Linear%20Programming%20with%20Lingo%20Software)
+  - [Linear Programming with Ms. Excel](https://github.com/randi-source/System-Modelling-and-Operational-Research/tree/main/Linear%20Programming%20with%20Ms.%20Excel)
+  - [Mixed Integer Programming-Warehouse Location and Routing Problem](https://github.com/randi-source/System-Modelling-and-Operational-Research/tree/main/Mix%20Integer%20Programming)
+  - [Multistep Linear Programming with Ms. Excel](https://github.com/randi-source/System-Modelling-and-Operational-Research/tree/main/Multi%20Step%20Linear%20Programming%20with%20Ms.%20Excel)
   
 ### Others
 - [Learn Java Basics](https://github.com/randi-source/belajar-java-dasar)
