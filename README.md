@@ -1,4 +1,4 @@
-## Randi Eka Sanjaya
+## Skillset
 
 **Skills:** Big Data Analytics, Business Analytics, Software Development, MLOps, Data Science, Machine Learning, Generative AI, NLP Reinforcement Learning, DevOps, Deep Learning, Transfer Learning, Cloud, Risk Management, Operational Research, Project Management \
 **Programming Language & Others:** Python/PySpark, Scala, R, Java, Golang, Shell Script \
@@ -6,22 +6,6 @@
 **Visualization:** Tableau, Streamlit, Google Data Studio, Grafana \
 **Service:** MLFlow, EvidentlyAI,  Docker, Ansible, Jenkins, Kubernetes, Git, AWS, Apache Hadoop, Apache Oozie, AnyLogistix \
 **ML and DL Framework:** HuggingFace (BERT, GPT2, T5, Wav2Vec, Whisper), Apache Spark, AWS SageMaker, XG-Boost, Scikit-Learn, TensorFlow, PyTorch
-
-## Education
-- M.T., Industrial Engineering | Universitas Atma Jaya Yogyakarta (_Jan 2024_)
-- S.T., Industrial Engineering | Universitas Atma Jaya Yogyakarta (_Jan 2020_)
-
-## Work Experience
-**Data Scientist @ PT. Solusi 247** 
-- Spark backend developer for Machine Learning BDA software 
-- Become keynote speaker on government client workshops about ML 
-- Become mentor for internship student about NLP-Sentiment Analysis
-
-**Junior Data Scientist @ PT. Solusi 247** 
-- Creating customer segmentation, churn prediction, apriori analysis, anomaly detection, market share analysis, warehouse segmentation, logistic network simulation usecase in state-owned enterprise big data project 
-- Implementing and testing MLOps practice, streaming analysis, TensorFlow test in government big data project 
-- Spark backend developer for big data analytics software 
-- Become keynote speaker on client internal workshops about Big Data on Supply Chain Management 
 
 ## Course
 - **AWS Certified Machine Learning Specialty 2023 - Hands On! @ Udemy** 
@@ -82,9 +66,6 @@
   - Learn MLLib Spark
   - Learn Classification in MLLib
   - Learn Natural Language Processing in MLLib
-
-## Certification
-- TOEIC Listening and Reading Test (870/990)
 
 ## Workshop
 - [Pengenalan MLOps dengan MLFlow @ ID Big Data](https://github.com/randi-source/Workshop_Pengenalan_MLOps_dengan_MLflow)
